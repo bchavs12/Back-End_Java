@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A2-Mesa01/A2-Mesa01.iml" filepath="$PROJECT_DIR$/A2-Mesa01/A2-Mesa01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A5P1-Mesa/A5P1-Mesa.iml" filepath="$PROJECT_DIR$/A5P1-Mesa/A5P1-Mesa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Back-End_Java.iml" filepath="$PROJECT_DIR$/.idea/Back-End_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsultaETransacoesDeDadosJava/ConsultaETransacoesDeDadosJava.iml" filepath="$PROJECT_DIR$/ConsultaETransacoesDeDadosJava/ConsultaETransacoesDeDadosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC_Java/JDBC_Java.iml" filepath="$PROJECT_DIR$/JDBC_Java/JDBC_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJUnit/TestJUnit.iml" filepath="$PROJECT_DIR$/TestJUnit/TestJUnit.iml" />
+    </modules>
+  </component>
+</project>
